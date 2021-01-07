@@ -1,0 +1,20 @@
+#Map {
+    height: 100%;
+    width: 100%;
+}
+
+#viewDiv {
+    height: 100%;
+    width: 100%;
+    background-color: lightgray;
+}
+
+#infoDiv {
+    background-color: white;
+    opacity: 0.9;
+    padding: 10px;
+}
+
+a {
+    color: blue;
+}
